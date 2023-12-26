@@ -21,7 +21,7 @@
 
 * Computing and working with data
 
-'''lena
+```lena
 
 /* Hello World example */
 import std::console
@@ -30,4 +30,4 @@ import std::console
     console.out("Hello World!")
 }
 
-'''
+```
