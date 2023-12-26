@@ -21,7 +21,7 @@
 
 * Computing and working with data
 
-```lena
+```rust
 
 /* Hello World example */
 import std::console
